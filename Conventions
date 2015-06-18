@@ -1,0 +1,8 @@
+
+
+Coordinate System
+	
+	Using a left-handed coordinate system. Y is up, X is right, Z is into the screen.
+	I=x, J=y, K=z are Cartesian basis vectors.
+
+
